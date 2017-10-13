@@ -15,4 +15,5 @@ Copyright JR 2017
 
 // Copy&Paste the parts to AndroidStudio
 
+//Hacktober test
 ?>
