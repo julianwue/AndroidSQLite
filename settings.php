@@ -1,0 +1,5 @@
+/*
+
+This file contains settings for the SQLite generator
+
+*/
